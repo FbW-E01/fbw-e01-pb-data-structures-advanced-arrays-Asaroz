@@ -16,8 +16,8 @@ console.log("________________________")
 // const arrayOfNumbers = [3, 45, 6, 56, 7, 9]; 
 // Create a function that increments each element in the arrayOfNumbers by 1. Return the a new array of modified elements.
 const arrayOfNumbers = [3, 45, 6, 56, 7, 9]; 
-const array_increment = arrayOfNumbers.map(x => x+1)
-console.log(array_increment)
+
+console.log(arrayOfNumbers.map(x => x+1))
 
 console.log("________________________")
 // 3. Filter Evens
